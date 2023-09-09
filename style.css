@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Labrada&display=swap');
 
- @import url('https://fonts.googleapis.com/css2?family=Shantell+Sans:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shantell+Sans:ital,wght@1,300&display=swap');
 
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&display=swap');
 
@@ -157,10 +157,12 @@ button:hover{
     padding: 8px 72px 0 48px;
 }
 
+
 .services{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    margin-top: 2rem;
 }
 
 .services div{
@@ -177,7 +179,7 @@ button:hover{
   
   .zoom-img  img {
     width: 100%;
-    transition: all .3s ease-in-out;
+    transition: all .5s ease-in-out;
     
   }
   
